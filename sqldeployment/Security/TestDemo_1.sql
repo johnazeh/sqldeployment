@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [TestDemo]
+    WITH PASSWORD = N'tynHheonph|jspok>{sgewesmsFT7_&#$!~<edgz_hkopcoc' MUST_CHANGE, SID = 0x1482993B29B3D04686DF23C8CF681C65, DEFAULT_LANGUAGE = [us_english], CHECK_EXPIRATION = ON;
+
